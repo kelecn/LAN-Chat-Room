@@ -107,7 +107,3 @@
 
 
 [《Qt及Qt Quick开发实战精解》](https://raw.githubusercontent.com/kelecn/images/master/Qt%E5%8F%8AQt%20Quick%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E7%B2%BE%E8%A7%A3.pdf)
-
-[局域网聊天室测试软件.zip](https://cdn.jsdelivr.net/gh/kelecn/images@master/%E5%B1%80%E5%9F%9F%E7%BD%91%E8%81%8A%E5%A4%A9%E5%AE%A4.zip)
-
-[局域网聊天室源码.zip](https://cdn.jsdelivr.net/gh/kelecn/images@master/%E5%B1%80%E5%9F%9F%E7%BD%91%E8%81%8A%E5%A4%A9%E5%AE%A4%E6%BA%90%E7%A0%81.zip)
