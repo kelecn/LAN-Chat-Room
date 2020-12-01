@@ -1,0 +1,1 @@
+Windows环境下打开chatPrivate.exe即可正常使用。
