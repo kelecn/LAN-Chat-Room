@@ -8,8 +8,8 @@
 ```c++
 开发工具：QT
 开发语言：C++
-测试软件：chatPrivateTest文件夹
-源码：chatPrivate文件夹
+测试软件：LAN-Chat-Room-Test文件夹
+程序源码：LAN-Chat-Room-Code文件夹
 注意：Windows环境下请在全英文路径下打开工程，否则会因为编码出错。
 ```
 

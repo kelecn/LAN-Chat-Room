@@ -1,1 +1,1 @@
-Windows环境下打开chatPrivate.exe即可正常使用。
+Windows环境下打开LAN-Chat-Room.exe即可正常使用。

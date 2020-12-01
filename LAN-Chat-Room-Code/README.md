@@ -1,1 +1,1 @@
-QT环境下打开chatPrivate.pro即可正常打开。
+QT环境下打开LAN-Chat-Room.pro即可正常打开。
