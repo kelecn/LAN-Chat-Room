@@ -1,1 +1,0 @@
-QT环境下打开chatPrivate.pro即可正常打开。
